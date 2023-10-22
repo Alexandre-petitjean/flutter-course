@@ -1,11 +1,7 @@
 # meals
 
-![img.png](img.png)
+### Home and menu
+<img src="img.png" width="300" hspace="10"> <img src="drawer.png" width="300" hspace="10"> <img src="filter.png" width="300" hspace="10">
 
-![drawer.png](drawer.png)
 
-![filter.png](filter.png)
-
-![categories.png](categories.png)
-
-![meal_detail.png](meal_detail.png)
+<img src="categories.png" width="300" hspace="10"> <img src="meal_detail.png" width="300" hspace="10">
